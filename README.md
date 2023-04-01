@@ -1,4 +1,3 @@
-My name is Adrian and I am 26 years old.
-I am a plugin developer for Skript, a plugin developed with java for Minecraft.
+Hi, my name is Adrian. I develop scripts for Minecraft (plugins developed with the Skript plugin) from scratch and with my own ideas or copied and improved from other Minecraft plugins.
 
-I make good plugins, with external configuration. Do you want a custom plugin? Talk to me or enter our Discord: https://discord.gg/Yy7kM6EKVX.
+You can see my created scripts and try them whenever you want.
